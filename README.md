@@ -77,3 +77,6 @@ Create a volume referencing your conf to internal conf file.
 ```
 docker run -it -v $(pwd)/nxlog.conf:/etc/nxlog/nxlog.conf leslau/nxlog
 ```
+
+## License
+[MIT](https://github.com/leslau/nxlog/blob/master/LICENSE)
