@@ -1,6 +1,6 @@
 [nxlog](http://nxlog-ce.sourceforge.net/)
 =========================================
-Docker image based on Ubuntu 14.04 with nxlog version 2.9.1504.
+Docker image based on Ubuntu 14.04 with nxlog version 2.9.1716.
 
 [![](https://images.microbadger.com/badges/image/leslau/nxlog.svg)](https://microbadger.com/images/leslau/nxlog "Get your own image badge on microbadger.com")		[![](https://images.microbadger.com/badges/version/leslau/nxlog.svg)](https://microbadger.com/images/leslau/nxlog "Get your own version badge on microbadger.com")
 
